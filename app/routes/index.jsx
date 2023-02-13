@@ -7,7 +7,7 @@ export const meta = () => {
 export default function Index() {
     return (
         <div>
-            <h3>Hello from the home page! test deployment</h3>
+            <h3>Hello from the home page! test deployment prepropd</h3>
         </div>
     );
 }
